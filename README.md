@@ -9,13 +9,13 @@ I specialize in creating innovative solutions with **TypeScript**, **React**, an
 
 ### 🎨 [Portfolio Website](https://github.com/Diyan-Welikanna/portfolio)
 A modern portfolio website showcasing my projects and skills with stunning visual design and smooth animations.
-- **Live Demo**: [diyan-t.is-a.dev]
+- **Live Demo**: (diyan-t.is-a.dev)
 - **Tech Stack**: TypeScript, Next.js, React, Tailwind CSS
 - **Highlights**: Terminal-style animations, responsive design, PWA support, modern UI with gradient backgrounds
 
 ### 💳 [POS System](https://github.com/Diyan-Welikanna/POS-System)
 A comprehensive Point-of-Sale system designed for retail businesses with modern features and intuitive interface.
-- **Live Demo**: [pos-system-delta-woad.vercel.app]
+- **Live Demo**: (pos-system-delta-woad.vercel.app)
 - **Tech Stack**: TypeScript, React, Next.js, PostgreSQL (PL/pgSQL)
 - **Highlights**: Full-stack application, database integration, real-time transaction management
 
