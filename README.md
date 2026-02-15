@@ -9,7 +9,7 @@ I specialize in creating innovative solutions with **TypeScript**, **React**, an
 
 ### 🎨 [Portfolio Website](https://github.com/Diyan-Welikanna/portfolio)
 A modern portfolio website showcasing my projects and skills with stunning visual design and smooth animations.
-- **Live Demo**: [diyans-portfolio.vercel.app](https://diyans-portfolio.vercel.app/)
+- **Live Demo**: [diyans-portfolio.vercel.app](diyan-t.is-a.dev)
 - **Tech Stack**: TypeScript, Next.js, React, Tailwind CSS
 - **Highlights**: Terminal-style animations, responsive design, PWA support, modern UI with gradient backgrounds
 
